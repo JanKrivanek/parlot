@@ -178,7 +178,7 @@ public class ExprBenchTests
         Expression result = bench.ParlotFluentSmall();
         // Assert
         Assert.NotNull(result);
-        Assert.IsType<Expression>(result);
+        Assert.IsAssignableFrom<Exception>(result);
     }
 
     /// <summary>

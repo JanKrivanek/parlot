@@ -1,0 +1,6 @@
+[*.{cs,vb}]
+dotnet_diagnostic.CA1707.severity = suggestion
+dotnet_diagnostic.CA1852.severity = suggestion
+dotnet_diagnostic.CA1050.severity = suggestion
+dotnet_diagnostic.CA1859.severity = suggestion
+dotnet_diagnostic.CA2201.severity = suggestion
